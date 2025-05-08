@@ -2,9 +2,9 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QUA APIs "
+  message: "Welcome to EazyBank accounts related QUA Env APIs "
   contactDetails:
-    name: "Smitha Ray - QUA Lead"
+    name: "Smitha Ray - QUA Env Lead"
     email: "smitha@eazybank.com"
   onCallSupport:
     - (666) 265-3765
